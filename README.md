@@ -7,7 +7,7 @@
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Usar](#como-usar)
-- [Como Contribuir](#como-contribuir)
+- [Como Contribuir](#como-contribuir) OBS: A partir de dezembro este repositório passará a aceitar commits de possíveis contribuidores do mundo open source
 
 <a id="sobre"></a>
 ## :bookmark: Sobre 
